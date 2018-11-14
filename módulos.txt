@@ -1,0 +1,33 @@
+Módulos
+
+INFORMES
+
+UCC
+	
+USUARIOS
+
+PRODUCTOS
+
+INSUMOS
+
+PROVEEDORES
+
+VENTA
+
+COMPRA
+
+INICIO SESION
+ID, Nombre usuario, N° boleta, Fecha ingreso, Cantidad Productos, Detalle, _Total_, Eliminar
+1,Luis,121234,16/02/2018,2,[Detalle],_1350_,[Editar],[Eliminar]      
+2,Luis,5235,17/05/2018,1,[Detalle],_100_,[Editar],[Eliminar]
+3,Carlos, 63464,18/06/2018,3,[Detalle],_210_,[Editar],[Eliminar]
+4,Luis,2532,16/07/2018,2,[Detalle],_140_,[Editar],[Eliminar]
+5,Carlos, 52356,16/10/2018,1,[Detalle],_160_,[Editar],[Eliminar]
+
+
+ID, Nombre usuario, N° Factura,Fecha ingreso,  Cantidad Productos,UCC,Subtotal, Total(C/IVA), Detalle,Editar,Eliminar
+1,Admin,121234,16/02/2018,2,10000,11000,[Detalle],[Editar],[Eliminar]      
+2,Admin,5235,17/05/2018,1,5000,5500,[Detalle],[Editar],[Eliminar] 
+3,Admin, 63464,18/06/2018,3,2000,2200,[Detalle],[Editar],[Eliminar] 
+4,Admin,2532,16/07/2018,2,3000,3300[Detalle],[Editar],[Eliminar] 
+5,Admin, 52356,16/10/2018,1,4000,4400,[Detalle],[Editar],[Eliminar] 
