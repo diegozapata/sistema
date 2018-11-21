@@ -24,9 +24,9 @@
           <div class="sidebar-sticky" style="margin-right: 85%">
             <ul class="nav flex-column">
               <li class="nav-item">
-                <a class="nav-link active" href="#" >
+                <a class="nav-link active" href="http://localhost/CIBOO" >
                   <span data-feather="home"></span>
-                  Dashboard <span class="sr-only">(current)</span>
+                  Inicio <span class="sr-only">(current)</span>
                 </a>
               </li>
               <li class="nav-item">
@@ -49,7 +49,7 @@
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#" >
-                  <span data-feather="file"></span>
+                  <span data-feather="file-text"></span>
                   Informes
                 </a>
               </li>
